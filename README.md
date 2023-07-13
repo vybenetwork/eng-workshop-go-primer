@@ -15,7 +15,6 @@ https://go.dev/doc/tutorial/getting-started
 2. Local dev environment
   - Running your code
   - Testing
-  - Reloading with [modd](https://github.com/cortesi/modd)
   - Building for different OS Architectures
 3. Go Syntax Basics
   - Modules, Exposing Functions, Types, and References
@@ -40,3 +39,4 @@ Resources:
   - Learn GO examples and Exercises - https://github.com/inancgumus/learngo
   - Concurrency is no Parrallelism - https://www.youtube.com/watch?v=oV9rvDllKEg
   - SOLID Go design - https://dave.cheney.net/2016/08/20/solid-go-design
+  - Reloading with [modd](https://github.com/cortesi/modd)
