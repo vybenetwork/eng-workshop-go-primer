@@ -18,10 +18,10 @@ https://go.dev/doc/tutorial/getting-started
   - Reloading with [modd](https://github.com/cortesi/modd)
   - Building for different OS Architectures
 3. Go Syntax Basics
-  - Variables, Stucts, Pointers
   - Modules, Exposing Functions, Types, and References
-  - Loops, Channels, Select, Goroutines
+  - Variables, Stucts, Pointers
   - Maps and Slices
+  - Loops, Channels, Select, Goroutines, Context
 
 ## Exercises
 
@@ -29,17 +29,10 @@ https://go.dev/doc/tutorial/getting-started
   - The `main.go` file
   - Printing to the console
   - Flags
-  - Test
 2. Asynchronous Coding
   - Creating a channel
-  - Listening for events
   - Creating a Gorouting
-  - Communicating using the channel
-3. Marshalling data to JSON
-  - Preparing a Struct to be marshalled
-  - Which properties are included
-  - Marshal to []byte
-  - Unmarshal to Struct
+  - Listening for events
 
 To dive deeper into GO and the ecosystem, check out the following resources.
 
